@@ -1,0 +1,11 @@
+D:\Asp.net Projects\e-commerce app .netCore & angular\Core\bin\Debug\net8.0\Core.deps.json
+D:\Asp.net Projects\e-commerce app .netCore & angular\Core\bin\Debug\net8.0\Core.dll
+D:\Asp.net Projects\e-commerce app .netCore & angular\Core\bin\Debug\net8.0\Core.pdb
+D:\Asp.net Projects\e-commerce app .netCore & angular\Core\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asp.net Projects\e-commerce app .netCore & angular\Core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
+D:\Asp.net Projects\e-commerce app .netCore & angular\Core\obj\Debug\net8.0\Core.AssemblyInfo.cs
+D:\Asp.net Projects\e-commerce app .netCore & angular\Core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+D:\Asp.net Projects\e-commerce app .netCore & angular\Core\obj\Debug\net8.0\Core.dll
+D:\Asp.net Projects\e-commerce app .netCore & angular\Core\obj\Debug\net8.0\refint\Core.dll
+D:\Asp.net Projects\e-commerce app .netCore & angular\Core\obj\Debug\net8.0\Core.pdb
+D:\Asp.net Projects\e-commerce app .netCore & angular\Core\obj\Debug\net8.0\ref\Core.dll
